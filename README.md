@@ -7,6 +7,9 @@
 * It he can move one square horizontally and get closer, he will do that. 
 * If he can’t move horizontally, then he will try to move vertically.
 
+# Link of the game online:
+* http://hafcwd.org/tst/StrangeLoopGames-TestProj/
+
 ### Photos of The Game
 <p align="center">
  <img src="./images/1.jpg" width="534" height="300"> <img src="./images/2.jpg" width="534" height="300"> <img src="./images/3.jpg" width="534" height="300">
