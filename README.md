@@ -9,5 +9,5 @@
 
 ### Photos of The Game
 <p align="center">
- <img src="./images/1.JPEG" width="534" height="300"> <img src="./images/2.JPEG" width="534" height="300"> <img src="./images/3.JPEG" width="534" height="300">
+ <img src="./images/1.jpg" width="534" height="300"> <img src="./images/2.jpg" width="534" height="300"> <img src="./images/3.jpg" width="534" height="300">
 </p>
