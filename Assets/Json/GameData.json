@@ -1,0 +1,208 @@
+{
+    "levels": [
+        {
+            "grid": [
+                {
+                    "pos": 34,
+                    "borders": [ 1, 1, 0, 0 ]
+                },
+                {
+                    "pos": 35,
+                    "borders": [ 0, 1, 0, 1 ]
+                },
+                {
+                    "pos": 36,
+                    "borders": [ 0, 1, 1, 0 ]
+                },
+                {
+                    "pos": 45,
+                    "borders": [ 0, 1, 1, 1 ]
+                },
+                {
+                    "pos": 46,
+                    "borders": [ 1, 0, 0, 0 ]
+                },
+                {
+                    "pos": 47,
+                    "borders": [ 0, 1, 0, 1 ]
+                },
+                {
+                    "pos": 44,
+                    "borders": [ 1, 0, 0, 0 ]
+                },
+                {
+                    "pos": 54,
+                    "borders": [ 1, 0, 0, 1 ]
+                },
+                {
+                    "pos": 55,
+                    "borders": [ 0, 1, 0, 1 ]
+                },
+                {
+                    "pos": 56,
+                    "borders": [ 0, 0, 1, 1 ]
+                }
+            ],
+            "escape_Pos": 47,
+            "theseus_Pos": 35,
+            "minotaur_Pos": 55
+
+        },
+        {
+            "grid": [
+                {
+                    "pos": 31,
+                    "borders": [ 1, 1, 0, 0 ]
+                },
+                {
+                    "pos": 32,
+                    "borders": [ 0, 1, 0, 0 ]
+                },
+                {
+                    "pos": 33,
+                    "borders": [ 0, 1, 0, 0 ]
+                },
+                {
+                    "pos": 34,
+                    "borders": [ 0, 1, 0, 0 ]
+                },
+                {
+                    "pos": 35,
+                    "borders": [ 0, 1, 0, 0 ]
+                },
+                {
+                    "pos": 36,
+                    "borders": [ 0, 1, 0, 0 ]
+                },
+                {
+                    "pos": 37,
+                    "borders": [ 0, 1, 1, 0 ]
+                },
+                {
+                    "pos": 41,
+                    "borders": [ 1, 0, 1, 0 ]
+                },
+                {
+                    "pos": 42,
+                    "borders": [ 1, 0, 1, 1 ]
+                },
+                {
+                    "pos": 43,
+                    "borders": [ 1, 0, 0, 0 ]
+                },
+                {
+                    "pos": 47,
+                    "borders": [ 0, 0, 1, 0 ]
+                },
+                {
+                    "pos": 51,
+                    "borders": [ 1, 0, 0, 0 ]
+                },
+                {
+                    "pos": 52,
+                    "borders": [ 0, 1, 0, 0 ]
+                },
+                {
+                    "pos": 55,
+                    "borders": [ 0, 0, 1, 0 ]
+                },
+                {
+                    "pos": 56,
+                    "borders": [ 1, 0, 1, 1 ]
+                },
+                {
+                    "pos": 57,
+                    "borders": [ 1, 0, 1, 0 ]
+                },
+                {
+                    "pos": 61,
+                    "borders": [ 1, 0, 0, 1 ]
+                },
+                {
+                    "pos": 63,
+                    "borders": [ 0, 0, 0, 1 ]
+                },
+                {
+                    "pos": 64,
+                    "borders": [ 0, 0, 0, 1 ]
+                },
+                {
+                    "pos": 65,
+                    "borders": [ 0, 0, 0, 1 ]
+                },
+                {
+                    "pos": 66,
+                    "borders": [ 0, 1, 0, 1 ]
+                },
+                {
+                    "pos": 67,
+                    "borders": [ 0, 0, 1, 1 ]
+                },
+                {
+                    "pos": 72,
+                    "borders": [ 1, 0, 1, 0 ]
+                }
+            ],
+            "escape_Pos": 72,
+            "theseus_Pos": 43,
+            "minotaur_Pos": 41
+
+        },
+        {
+            "grid": [
+                {
+                    "pos": 34,
+                    "borders": [ 1, 1, 0, 0 ]
+                },
+                {
+                    "pos": 35,
+                    "borders": [ 0, 1, 0, 1 ]
+                },
+                {
+                    "pos": 36,
+                    "borders": [ 0, 1, 1, 0 ]
+                },
+                {
+                    "pos": 44,
+                    "borders": [ 1, 0, 0, 0 ]
+                },
+                {
+                    "pos": 45,
+                    "borders": [ 0, 1, 0, 0 ]
+                },
+                {
+                    "pos": 47,
+                    "borders": [ 0, 1, 0, 1 ]
+                },
+                {
+                    "pos": 54,
+                    "borders": [ 1, 0, 1, 1 ]
+                },
+                {
+                    "pos": 55,
+                    "borders": [ 1, 0, 0, 0 ]
+                },
+                {
+                    "pos": 56,
+                    "borders": [ 0, 0, 1, 0 ]
+                },
+                {
+                    "pos": 64,
+                    "borders": [ 1, 1, 0, 1 ]
+                },
+                {
+                    "pos": 65,
+                    "borders": [ 0, 0, 0, 1 ]
+                },
+                {
+                    "pos": 66,
+                    "borders": [ 0, 0, 1, 1 ]
+                }
+            ],
+            "escape_Pos": 47,
+            "theseus_Pos": 45,
+            "minotaur_Pos": 35
+
+        }
+    ]
+}
